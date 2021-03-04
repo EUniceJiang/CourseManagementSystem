@@ -8,7 +8,6 @@ To develop a course management system that uses a web interface to a back-end da
 
 =================================================================================================
 #### Please watch this video demo, click here  >>> [Youtube](https://www.youtube.com/watch?v=4tdzcISoEv4).
-
 =================================================================================================
 
 #### Website Main Functions:
@@ -23,7 +22,7 @@ To develop a course management system that uses a web interface to a back-end da
 - Password Encryption 
 - Timetable generation
 
-#### Develop using the appropriate tools and languages
+#### Develop using the appropriate tools and languages:
 1. HTML5 for static content
 2. CSS and Bootstrap4 for formatting
 3. JavaScript, Ajax, and jQuery for client-side interactivity
