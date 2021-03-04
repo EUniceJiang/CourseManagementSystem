@@ -7,7 +7,10 @@ To develop a course management system application which uses a web interface to 
 
 #### launguage
 1. JavaScript
-2. CSS, HTML, PHP, and Bootstrap to develop a responsive course management website. 
+2. CSS
+3. HTML
+4. PHP
+5. Bootstrap 
 
 
 
