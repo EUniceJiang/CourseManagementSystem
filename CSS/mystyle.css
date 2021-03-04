@@ -1,0 +1,93 @@
+/*Backgroud Setting, some page uses the background image, but some not use*/
+.bg {
+    /* The image used */
+    /*Photo by Scott Webb on Unsplash (https://unsplash.com/photos/NJ2QKVuxGrE)*/
+    background-image: url("../Image/building01.jpg");
+    
+    /* Full height */
+    height: 100%; 
+    
+    /* Center and scale the image*/
+    background-position: center;
+    background-size: cover;   
+    background-repeat: no-repeat;
+    overflow-x: scroll;
+
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+/*Each page title banner*/
+#Welcometitle {       
+    background-color:lightblue;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    
+}
+
+#Message{
+    background-color:lightblue;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+
+}
+
+.Message{
+    text-align: center;
+    
+}
+
+
+th,tr,td{
+    padding: 10px;
+}  
+
+
+/*Timetable Page CSS*/
+.button01{
+    background-color:lightskyblue;
+    border: none;
+    color: rgb(14, 14, 14);
+    padding: 20px;
+    text-align: center;             
+    display: inline-block;
+    margin: 15px;
+    width: 25%;              
+}
+
+/*Unit_Detail Page CSS*/
+.unitname{
+    padding: 15px;
+    border-style:hidden;
+    background-color:lightcyan;
+    border-color: none;      
+}
+
+/*Student_Management Page CSS*/
+#TutorialList{
+    display: none;
+}
+
+/*Registration Page CSS*/    
+#StaffSignupForm,#StudentSignupForm{
+    border-radius: 3px;
+    margin-bottom: 15px;
+    background: #fff;
+    padding: 30px;
+}
+
+/*Registration Page CSS*/
+#StaffSignupForm label:after{
+    content: '*';
+    color: red;
+}
+
+
+
