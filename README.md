@@ -9,6 +9,13 @@ Please watch this video demo, click here  >>> [Youtube](https://www.youtube.com/
 - Enrolment (Lecture and Tutorial)
 - Allocation of Academic Staffs
 - Unit Detail Management
+- Changing users account detail
+- Registration
+- Session management (Sign in & out)
+- Different access level
+- Creating enrolled student lists
+- Password Encryption 
+- Timetable
 
 
 
