@@ -5,12 +5,13 @@
 #### Aim: 
 To develop a course management system application which uses a web interface to a back-end database. Using markup and scripting programming language to connect to database via a network.  
 
-#### launguage
-1. JavaScript
+#### launguages
+1. HTML
 2. CSS
-3. HTML
+3. JavaScript
 4. PHP
-5. Bootstrap 
+5. SQL
+6. Bootstrap 
 
 
 
