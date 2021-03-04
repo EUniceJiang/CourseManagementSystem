@@ -5,7 +5,7 @@ Aim: Using JavaScript, CSS, HTML, PHP, and Bootstrap to develop a responsive cou
 
 
 
-#### Course Management Website Main Function
+#### Website Main Function
 - Enrolment (Lecture and Tutorial)
 - Allocation of Academic Staffs
 - Unit Detail Management
