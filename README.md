@@ -23,16 +23,12 @@ To develop a course management system that uses a web interface to a back-end da
 - Password Encryption 
 - Timetable generation
 
-#### Languages
-1. HTML
-2. CSS
-3. JavaScript
-4. PHP
-5. SQL
-
-#### Front-end Framework
-- Bootstrap 4 
-
+#### Develop using the appropriate tools and languages
+1. HTML5 for static content
+2. CSS and Bootstrap4 for formatting
+3. JavaScript, Ajax, and jQuery for client-side interactivity
+4. PHP for dynamic content and server-side interactivity 
+5. MySQL for data storage and retrieval
 
 ##### Image References List
 Unsplash n.d., Photo by Scott Webb on Unsplash, unsplash.com, <https://unsplash.com/photos/NJ2QKVuxGrE>.
