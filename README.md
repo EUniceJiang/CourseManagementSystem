@@ -11,7 +11,7 @@ To develop a course management system that uses a web interface to a back-end da
 
 ==========================================================================================
 
-#### Website Main Function
+#### Website Main Functions
 - Enrolment (Lecture and Tutorial)
 - Allocation of Academic Staffs
 - Unit Detail Management
@@ -32,6 +32,11 @@ To develop a course management system that uses a web interface to a back-end da
 
 #### Front-end Framework
 - Bootstrap 4 
+
+
+##### Image References List
+Unsplash n.d., Photo by Scott Webb on Unsplash, unsplash.com, <https://unsplash.com/photos/NJ2QKVuxGrE>.
+
 
 
 
