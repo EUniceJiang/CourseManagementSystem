@@ -1,9 +1,9 @@
 ## Course Management System
----
+*****
 
 Aim: Using JavaScript, CSS, HTML, PHP, and Bootstrap to develop a responsive course management website. 
 
----
+
 
 #### Course Management Website Main Function
 - Enrolment (Lecture and Tutorial)
