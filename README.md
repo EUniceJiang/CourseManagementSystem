@@ -1,7 +1,13 @@
 ## Course Management System
 
+#### Project Description:
 
-Aim: Using JavaScript, CSS, HTML, PHP, and Bootstrap to develop a responsive course management website. 
+#### Aim: 
+To develop a course management system application which uses a web interface to a back-end database. Using markup and scripting programming language to connect to database via a network.  
+
+#### launguage
+1. JavaScript
+2. CSS, HTML, PHP, and Bootstrap to develop a responsive course management website. 
 
 
 
