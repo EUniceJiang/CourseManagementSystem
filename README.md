@@ -24,7 +24,8 @@ To develop a course management system which uses a web interface to a back-end d
 3. JavaScript
 4. PHP
 5. SQL
-6. Bootstrap 
+
+#### Front-end Framework: Bootstrap 4 
 
 
 #### Please watch this video demo, click here  >>> [Youtube](https://www.youtube.com/watch?v=4tdzcISoEv4).
