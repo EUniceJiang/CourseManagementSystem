@@ -1,9 +1,10 @@
 ## Course Management System
 
 #### Project Description:
+To develop a website where the students and staff can use it to process enrolment. 
 
 #### Aim: 
-To develop a course management system application which uses a web interface to a back-end database. Using markup and scripting programming language to connect to database via a network.  
+To develop a course management system which uses a web interface to a back-end database. Using markup and scripting programming language to connect to database via a network.  
 
 #### Website Main Function
 - Enrolment (Lecture and Tutorial)
@@ -15,7 +16,7 @@ To develop a course management system application which uses a web interface to 
 - Different access level
 - Creating enrolled student lists
 - Password Encryption 
-- Timetable
+- Timetable generation
 
 #### launguages
 1. HTML
