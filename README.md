@@ -4,7 +4,12 @@
 To develop a website where the students and staff can use it to process enrolment and manage units. 
 
 #### Aim: 
-To develop a course management system which uses a web interface to a back-end database. Using markup and scripting programming language to connect to database via a network.  
+To develop a course management system that uses a web interface to a back-end database. Using markup and scripting programming language to connect to a database via a network.  
+
+=============================================================
+#### Please watch this video demo, click here  >>> [Youtube](https://www.youtube.com/watch?v=4tdzcISoEv4).
+
+=============================================================
 
 #### Website Main Function
 - Enrolment (Lecture and Tutorial)
@@ -18,7 +23,7 @@ To develop a course management system which uses a web interface to a back-end d
 - Password Encryption 
 - Timetable generation
 
-#### launguages
+#### languages
 1. HTML
 2. CSS
 3. JavaScript
@@ -28,10 +33,7 @@ To develop a course management system which uses a web interface to a back-end d
 #### Front-end Framework
 - Bootstrap 4 
 
-=============================================================
-#### Please watch this video demo, click here  >>> [Youtube](https://www.youtube.com/watch?v=4tdzcISoEv4).
 
-=============================================================
 
 
 
