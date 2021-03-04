@@ -5,9 +5,6 @@ Aim: Using JavaScript, CSS, HTML, PHP, and Bootstrap to develop a responsive cou
 
 ---
 
-### Please watch this video demo, click here  >>> [Youtube](https://www.youtube.com/watch?v=4tdzcISoEv4).
-
-
 #### Course Management Website Main Function
 - Enrolment (Lecture and Tutorial)
 - Allocation of Academic Staffs
@@ -20,7 +17,7 @@ Aim: Using JavaScript, CSS, HTML, PHP, and Bootstrap to develop a responsive cou
 - Password Encryption 
 - Timetable
 
-
+### Please watch this video demo, click here  >>> [Youtube](https://www.youtube.com/watch?v=4tdzcISoEv4).
 
 
 
