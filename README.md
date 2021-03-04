@@ -5,16 +5,6 @@
 #### Aim: 
 To develop a course management system application which uses a web interface to a back-end database. Using markup and scripting programming language to connect to database via a network.  
 
-#### launguages
-1. HTML
-2. CSS
-3. JavaScript
-4. PHP
-5. SQL
-6. Bootstrap 
-
-
-
 #### Website Main Function
 - Enrolment (Lecture and Tutorial)
 - Allocation of Academic Staffs
@@ -26,6 +16,15 @@ To develop a course management system application which uses a web interface to 
 - Creating enrolled student lists
 - Password Encryption 
 - Timetable
+
+#### launguages
+1. HTML
+2. CSS
+3. JavaScript
+4. PHP
+5. SQL
+6. Bootstrap 
+
 
 #### Please watch this video demo, click here  >>> [Youtube](https://www.youtube.com/watch?v=4tdzcISoEv4).
 
